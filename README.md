@@ -1,2 +1,2 @@
 # menu
-Menu card 
+Menu card for demo purposes
